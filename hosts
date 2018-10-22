@@ -1,0 +1,62 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+192.168.3.66   datadrivensystems.id
+# localhost name resolution is handled within DNS itself.
+127.0.0.1	localhost
+#	::1             localhost
+127.0.0.1	www.techsmith.com
+127.0.0.1	activation.cloud.techsmith.com
+127.0.0.1	oscount.techsmith.com
+127.0.0.1	updater.techsmith.com
+127.0.0.1	camtasiatudi.techsmith.com
+127.0.0.1	tsccloud.cloudapp.net
+127.0.0.1	assets.cloud.techsmith.com
+127.0.0.1	tonec.com
+127.0.0.1	www.tonec.com
+127.0.0.1	registeridm.com
+127.0.0.1	www.registeridm.com
+127.0.0.1	secure.registeridm.com
+127.0.0.1	internetdownloadmanager.com
+127.0.0.1	www.internetdownloadmanager.com
+127.0.0.1	secure.internetdownloadmanager.com
+127.0.0.1	mirror.internetdownloadmanager.com
+127.0.0.1	mirror2.internetdownloadmanager.com
+127.0.0.1	mirror3.internetdownloadmanager.com
+127.0.0.1	star.tonec.com
+127.0.0.1	d01.notifa.info
+127.0.0.1	d31qbv1cthcecs.cloudfront.net
+127.0.0.1	d5nxst8fruw4z.cloudfront.net
+127.0.0.1	expose.uzone.id
+127.0.0.1	kendedes.uzone.id
+127.0.0.1	mercusuar.uzone.id
+127.0.0.1	p01.notifa.info
+127.0.0.1	p02.notifa.info
+127.0.0.1	p03.notifa.info
+127.0.0.1	p05.notifa.info
+127.0.0.1	usearch.co.id
+127.0.0.1	welcome.indihome.co.id
+127.0.0.1	118.97.116.10
+127.0.0.1	118.97.116.2
+127.0.0.1	118.97.116.27
+127.0.0.1	202.69.110.78
+127.0.0.1	36.66.1.2 # welcome.indihome.co.id
+127.0.0.1	36.86.63.180
+127.0.0.1	36.86.63.182 # mercusuar.uzone.id
+127.0.0.1	36.86.63.185 # internetpositif.uzone.id
+127.0.0.1	118.97.116.0/24
+127.0.0.1	36.86.63.0/24
